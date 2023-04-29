@@ -1,4 +1,6 @@
 # 💫 About Me:
+## 💼CEO at <a href="https://systembound.com/">@Systembound</a></h2><br />
+
 🔭 I’m currently working at stockbee.biz as lead developer.<br>
 🤝 I’m looking for help with make life easier and better.<br>
 🌱 I’m currently learning about life<br>
