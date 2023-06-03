@@ -2,7 +2,7 @@
 ## 💼CEO at <a href="https://systembound.com/">@Systembound</a></h2><br />
 
 🔭 I’m currently working at stockbee.biz as lead developer.<br>
-🤝 I’m looking for help with make life easier and better.<br>
+🤝 My amin is to make people life easier and better.<br>
 🌱 I’m currently learning about life<br>
 💬 Ask me about anything.
 💫 *I'm more active on <a href="https://gitlab.com/ammadkhalid">Gitlab</a> more than anyplatform at this moment!*
